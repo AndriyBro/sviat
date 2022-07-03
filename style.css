@@ -49,3 +49,6 @@ a:hover{
 .no{
     border: 5px double rgb(16, 118, 0);
 }
+table{
+text-align:center;
+}
